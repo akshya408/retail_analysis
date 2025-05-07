@@ -95,3 +95,6 @@ Make data-driven decisions — with no coding required.
 
 code :
  - <a href = "https://github.com/akshya408/retail_analysis/blob/main/retail_analysis_app%20-%20Copy.py">CODE</a>
+
+app kink :
+- <a> href = http://localhost:8506 >app link</a>
