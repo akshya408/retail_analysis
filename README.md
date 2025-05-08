@@ -97,4 +97,4 @@ code :
  - <a href = "https://github.com/akshya408/retail_analysis/blob/main/retail_analysis_app%20-%20Copy.py">CODE</a>
 
 app kink :
- http://localhost:8506 
+http://localhost:8502
