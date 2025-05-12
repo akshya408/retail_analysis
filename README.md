@@ -1,8 +1,8 @@
-# 📊 Storyboard: Retail Business Performance & Profitability Analysis App
+# 📊 Storyboard: Retail Business Performance & Profitability Analysis Model
 🎬 Scene 1: Welcome & Introduction
 Screen Content:
 
-App Title: “Retail Business Performance & Profitability Analysis”
+Model Title: “Retail Business Performance & Profitability Analysis”
 
 Brief description of the purpose: "Upload your retail data to analyze sales, profit trends, and forecast future performance."
 
@@ -96,5 +96,7 @@ Make data-driven decisions — with no coding required.
 code :
  - <a href = "https://github.com/akshya408/retail_analysis/blob/main/retail_analysis_app%20-%20Copy.py">CODE</a>
 
-app kink :
+model kink :
  http://localhost:8502
+
+ ![ChatGPT Image May 8, 2025, 01_22_45 AM](https://github.com/user-attachments/assets/8cfecc32-0447-4d56-8446-fad4c34c2c0b)
